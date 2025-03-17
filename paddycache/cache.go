@@ -1,7 +1,7 @@
 package paddycache
 
 import (
-	"paddycache/lru"
+	"paddycache/paddycache/lru"
 	"sync"
 )
 
